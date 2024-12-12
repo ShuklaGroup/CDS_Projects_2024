@@ -5,7 +5,7 @@ Repository for CHBE 413/594 and CHEM 452/590 Chemical Data Science and Engineeri
 
 | Group | Members                       | Topic                        |
 |-------|-------------------------------|------------------------------|
-| 1     | ***     | *** |
+| 1     | Ryan Berwick, David Harris, William Howe, Varun Jagannath    | Neuraminidase Protein Classification Using Bayesian Neural Networks |
 | 2     | ***     | *** |
 | 3     | ***     | *** |
 | 4     | ***     | *** |
