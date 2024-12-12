@@ -11,6 +11,6 @@ Repository for CHBE 413/594 and CHEM 452/590 Chemical Data Science and Engineeri
 | 4     | ***     | *** |
 | 5     | ***     | *** |
 | 6     | ***     | *** |
-| 7     | ***     | *** |
+| 7     | Qi Wu, Zoe Zhang, Yilun Li | A Data-Driven Approach to Asymmetric Hydrogenation of Alkenes |
 | 8     | ***     | *** |
 | 9     | ***     | *** |
