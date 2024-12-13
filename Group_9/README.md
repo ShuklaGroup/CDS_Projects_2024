@@ -20,10 +20,14 @@ Additionally, we have added more parameter controls, early stopping, and have ad
 ## Hyperparameter Tuning
 Hyperparameter tuning was performed using 6 separate notebooks to take advantage of parallel sessions on Kaggle. The results of the tuning are stored in the format `{layers}_{hidden units}`. Each notebook explored a different combination of layers and hidden units to optimize model performance efficiently.
 
+## Validation and Error Analysis
+- A `validation.ipynb` notebook is provided, which computes the properties of the generated molecules using ORCA.
+- An `error.ipynb` notebook compares the mean absolute error of a specified property across the different hyperparameter combinations.
+
 ## Results
 - Generated molecules exhibit the desired properties as validated using xtb and ORCA.
 - The model demonstrates the ability to generate molecules for applications in drug discovery, semiconductor materials, and renewable energy.
 
 ---
 
-For additional details, refer to the project notebooks and results folder.
+For additional details, refer to the project notebooks and results.
