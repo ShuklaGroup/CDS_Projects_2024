@@ -7,6 +7,9 @@ This is the group project of Group 9 for the CDS Course at UIUC - Fall 2024.
 ## Authors
 Omkar Chaudhari, Akshay Gurumoorthi, Rishabh Puri, Matthew Too
 
+## Acknowledgement
+We thank Professor Shukla, and Song for a really fun course!
+
 ## Abstract
 This work presents a method to generate molecules with target properties using Conditional Normalising Flows. The properties of the generated molecules are further validated using xtb and ORCA. Using the QM9 dataset, an autoregressive normalising flow model is trained on the molecules using TensorFlow and DeepChem, with the one-hot encodings of their SELFIES strings. The model is conditioned during training with DFT-computed properties of the molecules from the dataset. By utilising the learned bijections, new molecules are sampled by passing a condition vector with properties of interest. Using the model's outputted SELFIES strings, these are converted back to SMILES, created into ORCA input files using RDKit and Python, and validated using ORCA. This conditioning approach is tested to see if the model can be directed toward generating molecules with desired properties. Such models will be useful to generate new molecules in various domains like drug discovery, the semiconductor industry, renewable materials, etc.
 
