@@ -1,0 +1,144 @@
+/home/jingdan/apps/miniconda3/envs/dig/lib/python3.11/site-packages/torchani/resources/
+#Params: 15399234
+
+=====Epoch 1
+Learning rate: 0.001
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 15.759322007947913, 'Validation': 1.6454347372055054, 'Test': 1.6356650590896606}
+Saving checkpoint...
+
+=====Epoch 2
+Learning rate: 0.0005
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 1.2353338042686954, 'Validation': 0.9647794961929321, 'Test': 0.9592947363853455}
+Saving checkpoint...
+
+=====Epoch 3
+Learning rate: 0.00025
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.920763574744325, 'Validation': 0.8922131657600403, 'Test': 0.8868914842605591}
+Saving checkpoint...
+
+=====Epoch 4
+Learning rate: 0.000125
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.8840823663986999, 'Validation': 0.8800289034843445, 'Test': 0.8751632571220398}
+Saving checkpoint...
+
+=====Epoch 5
+Learning rate: 6.25e-05
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.8761378196764298, 'Validation': 0.8763697147369385, 'Test': 0.8715682625770569}
+Saving checkpoint...
+
+=====Epoch 6
+Learning rate: 3.125e-05
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.8733316437320143, 'Validation': 0.8748663067817688, 'Test': 0.8701498508453369}
+Saving checkpoint...
+
+=====Epoch 7
+Learning rate: 1.5625e-05
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.8721891435826498, 'Validation': 0.8742071390151978, 'Test': 0.8694687485694885}
+Saving checkpoint...
+
+=====Epoch 8
+Learning rate: 7.8125e-06
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.871644829545623, 'Validation': 0.8739269375801086, 'Test': 0.8691587448120117}
+Saving checkpoint...
+
+=====Epoch 9
+Learning rate: 3.90625e-06
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.871463800790769, 'Validation': 0.8737630844116211, 'Test': 0.8690090775489807}
+Saving checkpoint...
+
+=====Epoch 10
+Learning rate: 1.953125e-06
+
+Training...
+
+
+Evaluating...
+
+
+Testing...
+
+{'Train': 0.8712710659472037, 'Validation': 0.8736848831176758, 'Test': 0.8689369559288025}
+Saving checkpoint...
+Best validation MAE so far: 0.8736848831176758
+Test MAE when got best validation result: 0.8689369559288025
