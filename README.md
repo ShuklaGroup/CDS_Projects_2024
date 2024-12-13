@@ -13,4 +13,4 @@ Repository for CHBE 413/594 and CHEM 452/590 Chemical Data Science and Engineeri
 | 6     | ***     | *** |
 | 7     | Qi Wu, Zoe Zhang, Yilun Li | A Data-Driven Approach to Asymmetric Hydrogenation of Alkenes |
 | 8     | Michelle Ru, Staci Strader, Vrithik Umapathy, John Lopez | Dimensionality Reduction in Machine Learning |
-| 9     | ***     | *** |
+| 9     | Omkar Chaudhari, Akshay Gurumoorthi, Rishabh Puri, Matthew Too | Property-Driven Molecule Generation using Conditional Normalizing Flows |
